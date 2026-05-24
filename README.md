@@ -9,12 +9,29 @@ Independent Researcher
 ## Research Interests
 
 - AI for Mathematics
-- Lean and formal proof verification
+- LLM-assisted mathematical reasoning
+- Autoformalization and theorem proving
+- Lean 4 and formal proof verification
+- Proof assistants and machine-checkable mathematics
 - Numerical analysis and scientific computing
-- Verifiable AI-assisted mathematical reasoning
+- Verified numerical methods
+- Numerical PDEs and computational fluid dynamics
+- Finite difference and finite volume methods
+- Conservation laws, stability analysis, and error estimates
+- Spectral methods and finite element methods
+- Scientific machine learning and verifiable AI-assisted science
+- Benchmarking and evaluation for AI-assisted formalization
+
+## Education and Research Background
+
+- B.S. background in Applied Mathematics
+- M.S. background in Computational Mathematics
+- Ph.D. research in Computational Fluid Dynamics
+- Postdoctoral research experience in Computational Fluid Dynamics and scientific computing
+- Current independent research focus: AI for Mathematics, Lean, numerical analysis, and verifiable scientific computing
 
 ## About
 
 I am interested in how large language models, formal proof systems, and scientific computing can work together to make mathematical reasoning more verifiable.
 
-My current focus is on the interface between AI-generated mathematical reasoning and machine-checkable proof.
+My current focus is on the interface between AI-generated mathematical reasoning and machine-checkable proof, especially for numerical analysis and scientific computing.
