@@ -24,10 +24,10 @@ Independent Researcher
 
 ## Education and Research Background
 
-- B.S. background in Applied Mathematics
-- M.S. background in Computational Mathematics
-- Ph.D. research in Computational Fluid Dynamics
-- Postdoctoral research experience in Computational Fluid Dynamics and scientific computing
+- B.S. in Mathematics and Applied Mathematics, Central South University, 2011-2015
+- M.S. in Mathematics, Central South University, 2015-2018
+- Ph.D. in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen, 2018-2023
+- Postdoctoral Researcher in Mathematics, Southern University of Science and Technology, 2024-2026
 - Current independent research focus: AI for Mathematics, Lean, numerical analysis, and verifiable scientific computing
 
 ## About
