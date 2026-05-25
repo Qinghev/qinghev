@@ -1,6 +1,7 @@
 # Qinghe Wang
 
-Independent Researcher
+**Current status:** Independent Researcher  
+**Research focus:** AI for Mathematics, Lean, numerical analysis, and verifiable scientific computing
 
 **Email:** qinghev@gmail.com  
 **ORCID:** https://orcid.org/0000-0002-1882-9875  
@@ -24,11 +25,11 @@ Independent Researcher
 
 ## Education and Research Background
 
-- B.S. in Mathematics and Applied Mathematics, Central South University, 2011-2015
-- M.S. in Mathematics, Central South University, 2015-2018
+- Current: Independent Researcher, AI for Mathematics and verifiable scientific computing
+- Former Postdoctoral Researcher in Mathematics, Southern University of Science and Technology, 2024-March 2026
 - Ph.D. in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen, 2018-2023
-- Postdoctoral Researcher in Mathematics, Southern University of Science and Technology, 2024-2026
-- Current independent research focus: AI for Mathematics, Lean, numerical analysis, and verifiable scientific computing
+- M.S. in Mathematics, Central South University, 2015-2018
+- B.S. in Mathematics and Applied Mathematics, Central South University, 2011-2015
 
 ## About
 
